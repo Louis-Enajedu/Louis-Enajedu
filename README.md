@@ -9,8 +9,8 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I work on Software Development,Python,Sql,OOP,Django,HTML,CSS,Data Structures,Software Testing and everything around it.
+- I’m looking to collaborate on **Software Development and testing Projects**
 
 
 
