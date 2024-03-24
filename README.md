@@ -2,12 +2,6 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Louis Enajedu 
 <h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/louis-enajedu-0899b0241" target="_blank" rel="noreferrer">Louis</a> is a passionate Software Engineer in the UK, Leveraging a robust background in mechanical engineering, I apply a unique blend of analytical problem-solving and technical acumen to the domain of software engineering. With a Master's in Mechanical Engineering complemented by HyperionDev's Software Engineering Bootcamp, I possess a multifaceted skill set that encompasses mechatronics and CFD simulations, as well as expertise in Python and web development. My objective is to synergize the precision and structured thinking of engineering with the innovative and creative aspects of software design to devise cutting-edge solutions for modern technological challenges..</font></h3>
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
-
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
