@@ -32,5 +32,5 @@
 </p>
 
 - 💬 Ask me about **Sofware Development**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:enajeduokeoghene.com)**
+- 📫 How to reach me **[enajeduokeoghene@gmail.com](mailto:enajeduokeoghene@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
